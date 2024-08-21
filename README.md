@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-prueba de repositorio
+Este proyecto es una prueba de como crear un repositorrio y clonarlo a mi computadora.
